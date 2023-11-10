@@ -1,0 +1,4 @@
+C:/Users/Ivan/OneDrive - whu.edu.cn/whu/cs/cpp/sixthCpp/cmake-build-debug/CMakeFiles/sixthCpp.dir
+C:/Users/Ivan/OneDrive - whu.edu.cn/whu/cs/cpp/sixthCpp/cmake-build-debug/CMakeFiles/sixthCpp2.dir
+C:/Users/Ivan/OneDrive - whu.edu.cn/whu/cs/cpp/sixthCpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ivan/OneDrive - whu.edu.cn/whu/cs/cpp/sixthCpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
