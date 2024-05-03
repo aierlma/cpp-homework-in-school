@@ -1,0 +1,19 @@
+//
+// Created by aierlma on 2023/6/1.
+//
+
+#ifndef ELEVENTHCPP_STRNGBAD_H
+#define ELEVENTHCPP_STRNGBAD_H
+#include <iostream>
+class StringBad{
+private:
+    char * str;
+    int len;
+    static int num_strings;
+public:
+    StringBad(const char * s);
+    StringBad();
+    ~StringBad();
+    friend std::ostream & operator<<(std::ostream & os, const StringBad & st);
+};
+#endif //ELEVENTHCPP_STRNGBAD_H
